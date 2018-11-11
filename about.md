@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hobbyist gamedev.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Folow my twitter: [email@domain.com](http://twitter.com/jimmyjonezz)
+Send me mail: [jimmyjonezz@bk.ru](mailto:jimmyjonezz@bk.ru)
